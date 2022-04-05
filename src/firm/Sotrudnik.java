@@ -1,2 +1,6 @@
-package firm;public class Sotrudnik {
+package firm;
+
+public class Sotrudnik {
+    String fam, im, otch, doljnost;
+    int oklad;
 }
